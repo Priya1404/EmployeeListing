@@ -1,0 +1,6 @@
+framework module Pods_EmployeesBioFourmis_EmployeesBioFourmisUITests {
+  umbrella header "Pods-EmployeesBioFourmis-EmployeesBioFourmisUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
